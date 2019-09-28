@@ -16,4 +16,4 @@
   - [Exploring Dresden](./beyond/dresden.md)
   - [Extracurricular Activities](./beyond/extracurricular.md)
 
-[Tipps](./tipps.md)
+[Tips](./tips.md)
