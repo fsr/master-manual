@@ -1,6 +1,6 @@
 # Building a Timetable #
-## class times ##
-Classes always start and end at a specific time. We will list them here for your:
+## Class times ##
+Classes take 90 minutes and always start and end at a specific time. We will list them here for you:
 
 1st double period: 07.30 - 09.00 am  
 2nd double period: 09.20 - 10.50 am  
@@ -11,8 +11,8 @@ Classes always start and end at a specific time. We will list them here for your
 7th double period: 06.30 - 08.00 pm  
 8th double period: 08.20 - 09.50 pm  
 
-## picking classes ##
-In many courses you will have the freedom to choose courses you want to attend. How many and which courses you can bring into your degree depends on your master-programm, so this will be discussed later again.  
+## Picking classes ##
+In many courses you will have the freedom to choose courses you want to attend. How many and which courses you can integrate into your degree depends on your master program, so this will be discussed again later.  
 However, there is one central list, where all the couses you can attend to are listed. you can find it here: https://tu-dresden.de/ing/informatik/studium/lehre/lehrangebotskataloge .  
 Those lists usually appear a while before the semester starts. They are sorted by summer or wintersemester and in the lists you can just search for the subjects that are specific to your program.   
 The "Lehrveranstaltungspläne" (teaching offer plan) usually appear a bit later then the "Lehrangebot" (teaching offer). In contrast to the later, those contain the actual timeslots, when a course will be held.   
